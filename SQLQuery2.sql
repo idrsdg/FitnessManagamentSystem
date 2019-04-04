@@ -1,0 +1,1 @@
+﻿insert into userinfo(enddate) values('12-10-2017')
