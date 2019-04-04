@@ -1,0 +1,137 @@
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\login_manager.mdf
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\login_manager_log.ldf
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe.config
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe.manifest
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.application
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.pdb
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.dll
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\RestSharp.dll
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.dll
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\RestSharp.xml
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.pdb
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.xml
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.FinalizePayment.resources
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.FinalizeServices.resources
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.userpanel.resources
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.License.resources
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.Login.resources
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.adminpanel.resources
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.Properties.Resources.resources
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csproj.GenerateResource.Cache
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.exe.manifest
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.application
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.exe
+C:\Users\dijwa\Desktop\yedekler\Yeni klasör (5)\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.pdb
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe.config
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe.manifest
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.application
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.pdb
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.Design.dll
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.dll
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\RestSharp.dll
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.dll
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\RestSharp.xml
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.pdb
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.xml
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csprojResolveAssemblyReference.cache
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.FinalizePayment.resources
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.FinalizeServices.resources
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.userpanel.resources
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.License.resources
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.Login.resources
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.adminpanel.resources
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.Properties.Resources.resources
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csproj.GenerateResource.Cache
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csproj.CoreCompileInputs.cache
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.exe.manifest
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.application
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.exe
+C:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.pdb
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe.config
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe.manifest
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.application
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.pdb
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.Design.dll
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.dll
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.Fonts.dll
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\RestSharp.dll
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.dll
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\RestSharp.xml
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.pdb
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.xml
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csprojResolveAssemblyReference.cache
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.FinalizePayment.resources
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.FinalizeServices.resources
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.userpanel.resources
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.License.resources
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.Login.resources
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.adminpanel.resources
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.Properties.Resources.resources
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csproj.GenerateResource.Cache
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csproj.CoreCompileInputs.cache
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.exe.manifest
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.application
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.exe
+F:\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.pdb
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe.config
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe.manifest
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.application
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.pdb
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.dll
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\RestSharp.dll
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.dll
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.pdb
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.xml
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.FinalizePayment.resources
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.FinalizeServices.resources
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.userpanel.resources
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.License.resources
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.Login.resources
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.adminpanel.resources
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.exe.manifest
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.application
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.exe
+C:\Users\Lenovo\Desktop\Yeni klasör\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.pdb
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe.config
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe.manifest
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.application
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.exe
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\Gym_Manager.pdb
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.dll
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\RestSharp.dll
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.dll
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\RestSharp.xml
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.pdb
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\bin\Debug\Twilio.Api.xml
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csprojAssemblyReference.cache
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.FinalizePayment.resources
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.FinalizeServices.resources
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.userpanel.resources
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.License.resources
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.Login.resources
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.adminpanel.resources
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.Properties.Resources.resources
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csproj.GenerateResource.cache
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.exe.manifest
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.application
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\GymManagement.csproj.CopyComplete
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.exe
+C:\Users\İDRİS DAĞ\Desktop\cet301\301 Project\GymManagementFinalProject\GymManagement\obj\Debug\Gym_Manager.pdb
